@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Ey!
 
-I'm a Software Engineer, burgeoning in the ways of automation and web development
+I'm a Software Engineer, burgeoning in the ways of automation and web development. I like learning new stuff and talking about them!
 
 ![Eyx2run's Stats](https://github-readme-stats.vercel.app/api?username=Eyx2run&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
@@ -12,6 +12,23 @@ I'm a Software Engineer, burgeoning in the ways of automation and web developmen
 ## 👾 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,react,bootstrap,grafana,mysql,rabbitmq,postman,figma,notion,github,jenkins)](https://skillicons.dev)
+
+## 🌱 Currently working on:
+- Mastering React.js🎨
+  - Understanding the optimal use of contexts and API integrations
+  - Designing with CSS frameworks like Bootstrap and Tailwind
+  - Building functional Fullstack projects with Next.js
+- Automated Testing with Playwright🎭
+  - Understanding testing best practices
+  - Understanding locators with lesser-known elements (sliders, tables, etc.)
+  - Advanced web scraping
+- Learning about Docker🐳
+
+## 📫 Reach me at
+📧[Gmail](ajsenar86@gmail.com)
+🧑‍💼[LinkedIn](https://www.linkedin.com/in/aj-senar-dev/)
+
+
 
 <!--
 **Eyx2run/Eyx2run** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
