@@ -4,12 +4,12 @@ I'm a Software Engineer, burgeoning in the ways of automation and web developmen
 
 ![Eyx2run's Stats](https://github-readme-stats.vercel.app/api?username=Eyx2run&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-## 😸 About Me
+## 😸 About me
 - I graduated with a Bachelor's degree in Computer Engineering in 2022
 - I'm interested in designing web apps (Node + React.js) and testing them (Playwright)
 - I love my cats and writing poetry ✍️
 
-## 👾 Tech Stack
+## 👾 Tech stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,react,bootstrap,grafana,mysql,rabbitmq,postman,figma,notion,github,jenkins)](https://skillicons.dev)
 
