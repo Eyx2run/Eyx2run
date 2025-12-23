@@ -11,7 +11,7 @@ I'm a Software Engineer, burgeoning in the ways of automation and web developmen
 
 ## 👾 Tech Stack
 
-[![JavaScript, Nodejs, mysql, react, bootstrap](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,react,bootstrap,grafana,mysql,rabbitmq,postman,figma,notion,github,jenkins)](https://skillicons.dev)
 
 <!--
 **Eyx2run/Eyx2run** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
