@@ -9,9 +9,9 @@ I'm a Software Engineer, burgeoning in the ways of automation and web developmen
 - I'm interested in designing web apps (Node + React.js) and testing them (Playwright)
 - I love my cats and writing poetry ✍️
 
-## Tech Stack
+## 👾 Tech Stack
 
-[![JavaScript, Node.js, React.js, MySQL, Grafana](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![JavaScript, Nodejs, mysql, react, bootstrap](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <!--
 **Eyx2run/Eyx2run** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
